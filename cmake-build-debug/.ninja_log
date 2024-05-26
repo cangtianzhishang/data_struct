@@ -1,0 +1,5 @@
+# ninja log v5
+58	129	7384266308345115	cdatastruct.exe	b3f2a8f231715543
+2	57	7384266307652886	CMakeFiles/cdatastruct.dir/string_linklist.c.obj	3aeb17795f47f4be
+2	78	7384403001909131	CMakeFiles/cdatastruct.dir/string_linklist.c.obj	22d83e30ff1ee5d1
+79	191	7384403002999102	cdatastruct.exe	b3f2a8f231715543
